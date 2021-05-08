@@ -135,6 +135,8 @@ return array(
         'js.mobojoy.baidu.com',
         'plugin.mobopay.baidu.com',
         'dj1.baidu.com',
+        'isite.baidu.com',
+        'sjh.baidu.com', #367
     ),
     'youdao.com' => array('corp.youdao.com'),
     'crsspxl.com' => array('crsspxl.com'),
@@ -158,6 +160,7 @@ return array(
         'appcloud2.zhihu.com',
         'zhihu-web-analytics.zhihu.com',
         'event.zhihu.com',
+        'udd1i5.zhihu.com', #395
     ),
     'crashlytics.com' => array(
         'crashlytics.com'
@@ -270,7 +273,7 @@ return array(
     'kingsoft-office-service.com' => array(
         'abroad-ad.kingsoft-office-service.com',
     ),
-    'amap.com' => array('logs.amap.com'),
+    'amap.com' => array('logs.amap.com','dualstack-logs.amap.com'),
     'tt114.net' => array('tt114.net'), //例如http://www.tt114.net/html/tlink.html
     'taobao.com' => array(
         'ip.taobao.com',
@@ -910,8 +913,100 @@ return array(
         'wwads.cn',
         'www.wwads.cn',
    ),
-    
-    
+   'pigvideo.com.cn' => array( #372
+        'pigvideo.com.cn',
+        'www.pigvideo.com.cn',
+   ),
+   'pigvideo.cn' => array( #372
+        'pigvideo.cn',
+        'www.pigvideo.cn',
+   ),
+   'xiaozhuvideo.cn' => array( #372
+        'xiaozhuvideo.cn',
+        'www.xiaozhuvideo.cn',
+   ),
+   'wikawika.xyz' => array( #375
+        'ad-display.wikawika.xyz',
+        'ad-channel.wikawika.xyz',
+   ),
+   'shujupie.com' => array( #379
+        'shujupie.com',
+        'umini.shujupie.com',
+   ),
+   'pcidata.cn' => array( #379
+        'pcidata.cn',
+        'spi.pcidata.cn',
+   ),
+   '3.cn' => array( #392
+        'atom-log.3.cn',
+   ),
+   'gz-data.com' => array( #402
+        'gz-data.com',
+        'www.gz-data.com',
+   ),
+   'gzads.com' => array( #402
+        'gzads.com',
+        'www.gzads.com',
+    ),
+    'gozendata.com' => array( #402
+        'gozendata.com',
+        'www.gozendata.com',
+    ),
+    'zhuangjizhuli.net' => array( #400
+        'www.zhuangjizhuli.net',
+        'zhuangjizhuli.net',
+    ),
+    'coumie.top' => array( #400
+        'coumie.top',
+        'softdown.coumie.top',
+    ),
+    'avbdf.com' => array( #400
+        'avbdf.com',
+        'hs.avbdf.com',
+    ),
+    'sxyunyou.cn' => array( #400
+        'sxyunyou.cn',
+        'hs.sxyunyou.cn',
+    ),
+    'sxdanke.cn' => array( #400
+        'sxdanke.cn',
+        'hbs.sxdanke.cn',
+    ),
+    'o7h.net' => array( #400
+        'o7h.net',
+        'www.o7h.net',
+    ),
+    'uzhuangji.cn' => array( #400
+        'xiazai.uzhuangji.cn',
+        'uzhuangji.cn',
+    ),
+    'sdxitong.com' => array( #400
+        'www.sdxitong.com',
+        'sdxitong.com',
+    ),
+    'haozhuangji.com' => array( #400
+        'www.haozhuangji.com',
+        'haozhuangji.com',
+    ),
+    'lao9123.com' => array( #400
+        'www.lao9123.com',
+        'lao9123.com',
+    ),
+    'pe8.com' => array( #400
+        'www.pe8.com',
+        'pe8.com',
+    ),
+    'ycxjtd.com' => array( #400
+        'cdn.ycxjtd.com',
+        'www.ycxjtd.com',
+        'ycxjtd.com',
+    ),
+    'pkkjxs.cn' => array( #400
+        'pkkjxs.cn',
+        'dbc.pkkjxs.cn',
+        'www.pkkjxs.cn',
+        'windows.pkkjxs.cn',
+    ),
     
     
     
@@ -1465,5 +1560,31 @@ return array(
     'yjkyj.cn' => array('yjkyj.cn'),
     'zamar.cn' => array('zamar.cn'),
 
+    'actonservice.com' => array( #精简域名
+        'actonservice.com',
+    ),
+    'daraz.com' => array( # 精简域名，太长了，似乎是个电商平台
+        'daraz.com',
+    ),
+    'llnw.net' => array( # 精简域名，这是个cdn服务商，可能误杀
+        'llnw.net',
+    ),
+    'windows.com' => array( #精简域名，这个是windows推送服务？
+        'wns.windows.com',
+    ),
+    'uc.cn' => array( // dns日志提取
+        'coral-task.uc.cn',
+        'applogios.uc.cn', // uc log
+    ),
+    'sm.cn' => array( // dns日志提取
+        'huichuan-mc.sm.cn',
+        'huichuan.sm.cn',
+    ),
+    'alibaba.com' => array( // dns日志提取
+        'fourier.alibaba.com',
+    ),
+    'jj.cn' => array( // dns日志提取
+        'stat.m.jj.cn',
+    ),
 
 );

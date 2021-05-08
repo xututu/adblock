@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202103021532
+! Version: 202105060658
 ! Title: CJX's Annoyance List
-! Last modified: 2021/03/02 15:32 +0800
+! Last modified: 2021/05/06 06:58 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -57,6 +57,7 @@
 ||5etv.com^$third-party
 ||bobo.com^$third-party
 ||cir-smart.baidu.com^
+||bjmantis.net^
 ||crs.baidu.com^
 ||goutong.baidu.com^
 ||knet.cn^$third-party
@@ -76,6 +77,7 @@
 ||zoosnet.net^$third-party
 ||zoossoft.cn^$third-party
 ||easyliao.com^$third-party
+||outbrain.com^$third-party
 !---------------------------Popups--------------------------------------------!
 !--------------------------Specific blocking filters--------------------------!
 ||025yimei.com/templets/default/js/swt.js
@@ -431,7 +433,26 @@
 ||tiexue.net/pic/tx_1220.jpg
 ||gushiwen.org/getTicket.aspx
 ||51cto.com/edu/center/js/interaction_iframe.js
+||360doc.com/js/showarticle.js
+||jishulink.com/images/content/visitor-footer-
+||jishulink.com/images/activity/invite_
+||codenong.com/c1.js
 !------------------------Specific element hiding rules------------------------!
+5ykj.com##.ls-b-large-margin
+pptjia.com##.alert2_wrap
+jishulink.com##.invite-code-dialog
+zhenbuka.com##.jq-toast-wrap
+fx361.com###k_s_ol_chatWin
+fx361.com###k_s_ol_chatWinSm
+fanyi.sogou.com##.img-banner
+fanyi.sogou.com##.survey
+huaban.com##.hb-ad
+ifsp.tv##.video-page-right
+meijumi.me###app_left
+baidu.com##.opening-season-dialog
+iqihang.com##.xf_right
+qianlima.com###bg
+qianlima.com##.seo400
 to8to.com##.layer-red-box
 tvbs.com.tw##.smart_banner
 wenku.baidu.com##.header-wrapper > .fixed-activity-bar

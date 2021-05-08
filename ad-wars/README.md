@@ -15,7 +15,7 @@ values-en 翻译英文
 ```
 
 
-# [大圣净化](https://github.com/jdlingyu/ad-wars/) 使用帮助
+# 大圣净化 使用帮助
 
 应用下载地址(捐赠版本需激活码)
 

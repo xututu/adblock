@@ -215,16 +215,39 @@ return array(
     'issuecdn.baidupcs.com' => 0, // #350
     'duiba.com.cn' => 0, // #352
     'trib.al' => 0, // #357
+    'ccmp.eu' => 0, // #365
+    'alissl.ucdl.pp.uc.cn' => 0, // #370
+    'c3pool.com' => 0, // #371
+    'wtradv.market.xiaomi.com' => 0, // #377
+    'update.avlyun.sec.miui.com' => 0, // #387
+    'sugar.zhihu.com' => 0, // #380
+    'chtbl.com' => 0, // #390
+    'huoying666.com' => 0, // #405
+    'u.huoying666.com' => 0, // #405
 
-    
-    
-    
-    
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    'iflow.uczzd.cn' => 0, // uc搞笑段子
+    'm.uczzd.cn' => 0, // uc搞笑段子
+    'puds.ucweb.com' => 0, // uc小游戏
+    'image.zzd.sm.cn' => 0, // uc浏览器
     'herokuapp.com' => -1,
     'netlify.com' => -1,
     'vidoza.net' => -1,
