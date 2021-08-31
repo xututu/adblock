@@ -1,0 +1,11 @@
+https://doh.opendns.com/dns-query
+https://dns.google/dns-query
+https://1dot1dot1dot1.cloudflare-dns.com/dns-query
+https://dns11.quad9.net/dns-query
+https://dns.nextdns.io/dns-query
+https://mozilla.cloudfare-dns.com/dns-query
+https://chrome.cloudflare-dns.com/dns-query
+https://e5aehtlc5e.cloudflare-gateway.com/dns-query
+https://sepfvn6g5a.cloudflare-gateway.com/dns-query
+https://dns-unfiltered.adguard.com/dns-query
+https://dns.sb/dns-query

@@ -1,0 +1,9 @@
+https://dns.ipv6dns.com/dns-query
+https://doh.360.cn/dns-query
+https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+https://sm2.doh.pub/dns-query
+tls://dns.alidns.com:853
+tls://dot.360.cn:853
+tls://dns.pub:853
+tls://dns.pub
